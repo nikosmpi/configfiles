@@ -1,2 +1,2 @@
-# configfiles
-Some config files 
+# Configuration Files
+
